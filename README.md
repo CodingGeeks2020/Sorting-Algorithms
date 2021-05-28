@@ -14,3 +14,4 @@
 
 [Radix Sort](https://github.com/CodingGeeks2020/Sorting-Algorithms/blob/main/Radix%20Sort.cpp)
 
+[Heap Sort](https://github.com/CodingGeeks2020/Sorting-Algorithms/blob/main/Heap%20Sort.cpp)
